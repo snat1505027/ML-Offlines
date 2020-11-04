@@ -1,0 +1,18 @@
+Method: TF-IDF
+For k = 1, Total Correct Count : 1775  Total Wrong Count: 414  Accuracy: 81.087254
+For k = 3, Total Correct Count : 1798  Total Wrong Count: 391  Accuracy: 82.137963
+For k = 5, Total Correct Count : 1831  Total Wrong Count: 358  Accuracy: 83.645500
+
+Best k = 5
+
+Total Correct Count: 4512  Total Wrong Count: 977  Accuracy: 82.200765
+
+Method: TF-IDF
+For k = 1, Total Correct Count : 568  Total Wrong Count: 29  Accuracy: 95.142379
+For k = 3, Total Correct Count : 575  Total Wrong Count: 22  Accuracy: 96.314908
+For k = 5, Total Correct Count : 577  Total Wrong Count: 20  Accuracy: 96.649916
+
+Best k = 5
+
+Total Correct Count: 1437  Total Wrong Count: 60  Accuracy: 95.991984
+
